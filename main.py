@@ -12,7 +12,7 @@ from os import environ
 # بيانات البوت
 api_hash = "33a37e968712427c2e7971cb03f341b3"
 api_id = "15523035"
-bot_token = "7376762528:AAEsHW4UgzRDeTqCk-s6J43JhQ0uidovyVU"
+bot_token = "7473745729:AAGJE4wbu5eURdu8zWMRtHVEimQ7140_6z0"
 bot = Client("mybot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
 # المسار إلى الصورة المصغرة الافتراضية
