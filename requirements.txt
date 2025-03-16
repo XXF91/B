@@ -1,0 +1,12 @@
+#pyrogram==2.0.46
+pyrofork
+tgcrypto
+flask
+gunicorn==20.1.0
+aiohttp
+moviepy
+tqdm
+speedtest-cli
+#motor
+#pymongo
+pyrogram
